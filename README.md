@@ -1,3 +1,23 @@
+# Završni Rad – Hotel Booking App 🏨
+
+This repository contains the frontend of my final project completed at FERIT: a hotel booking web application.
+
+Built with Nuxt 3, Vue.js, TypeScript, and Tailwind CSS, the app allows users to:  
+
+- Browse hotels and rooms  
+- View hotel details  
+- Select dates and book a room  
+
+The project demonstrates a responsive design, component-based architecture, and interactive UI features using Vue.js.
+
+## 🚀 Getting Started
+
+```bash
+npm install
+npm run dev
+
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
